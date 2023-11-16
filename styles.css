@@ -1,1 +1,44 @@
 /* Write your CSS here! */
+
+
+body {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 8px; 
+    display: block; 
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+}
+
+header, footer {
+    background-color: #5626a39e;
+    color: #ffffff;
+    text-align: center;
+    padding: 9px;
+    font-family:cursive;
+}
+
+main {
+    padding: 20px;
+}
+
+article {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+#mainHeading {
+    color: red;
+    font-size: 24px;
+}
+
+#testP {
+    font-style: italic; 
+}
+
+.funParagraph {
+    color: green; 
+}
