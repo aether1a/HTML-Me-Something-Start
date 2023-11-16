@@ -14,19 +14,21 @@ header, footer {
     background-color: #5626a39e;
     color: #ffffff;
     text-align: center;
-    padding: 9px;
+    padding: 11px;
     font-family:cursive;
 }
 
 main {
-    padding: 20px;
+    padding: 22px;
 }
 
 article {
-    border: 1px solid #ddd;
-    margin-bottom: 20px;
-    padding: 10px;
+    border: 11px solid #5626a39e;
+    margin-bottom: 22px;
+    padding: 11px;
     text-align: center;
+    margin-left: 111px;
+    margin-right: 111px;
 }
 
 
@@ -41,4 +43,5 @@ article {
 
 .funParagraph {
     color: green; 
+    font-size: 20px;
 }
